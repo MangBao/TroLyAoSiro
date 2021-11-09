@@ -1,0 +1,16 @@
+{
+	"word" : "winword.exe",
+	"excel" : "excel.exe",
+	"powerpoint" : "powerpnt.exe",
+	"notepad" : "notepad",
+	"máy ảnh" : "microsoft.windows.camera:",
+	"camera" : "microsoft.windows.camera:",
+	"bàn phím ảo" : "osk",
+	"paint" : "mspaint",
+	"máy tính" : "calc",
+	"control panel" : "control",
+	"explorer" : "explorer",
+	"google" : "chrome.exe",
+	"edge" : "msedge.exe",
+	"cốc cốc" : "browser.exe"
+}
